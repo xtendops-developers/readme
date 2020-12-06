@@ -10,6 +10,22 @@ Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque eget sodales aug
 
 Nunc vel dictum risus. Proin rhoncus vitae dui vel euismod. Sed sodales est eget velit ultricies porttitor. Phasellus ac mi ultrices, commodo tortor tincidunt, mattis turpis. Vestibulum nisi nisi, hendrerit ac justo sit amet, vehicula rutrum neque. Vivamus elementum pretium est, eget bibendum quam eleifend vitae. Fusce finibus sapien ac nunc finibus vehicula. Nullam ut maximus mauris. Curabitur volutpat lacinia tortor vitae condimentum. Donec pretium lectus elit, eget egestas turpis porta ac. Fusce vitae malesuada lacus.
 
+> Develop with accountability in mind. Own it with pride ⚡!
+
+## Websites
+
+- https://xtendops.com
+- https://api.xtendops.com
+- https://developers.xtendops.com
+- https://status.xtendops.com
+- https://monitoring.xtendops.com
+- https://careers.xtendops.com
+- https://xconnect.xtendops.com
+- https://ifix.xtendops.com
+- https://timekeeping.xtendops.com
+- https://account.xtendops.com
+- https://slack.xtendops.com
+
 ## Meet The Team
 
 <table>
