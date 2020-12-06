@@ -19,6 +19,7 @@ Nunc vel dictum risus. Proin rhoncus vitae dui vel euismod. Sed sodales est eget
 - https://developers.xtendops.com
 - https://status.xtendops.com
 - https://monitoring.xtendops.com
+- https://files.xtendops.com
 - https://careers.xtendops.com
 - https://xconnect.xtendops.com
 - https://ifix.xtendops.com
